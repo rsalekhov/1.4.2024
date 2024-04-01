@@ -1,0 +1,5 @@
+2024-04-01 13:54:28.835752 - Function: hello_world - Arguments: (), {} - Result: Hello World
+2024-04-01 13:54:28.835752 - Function: summator - Arguments: (2, 2), {} - Result: 4
+2024-04-01 13:54:28.835752 - Function: div - Arguments: (6, 2), {} - Result: 3.0
+2024-04-01 13:54:28.835752 - Function: summator - Arguments: (4.3,), {'b': 2.2} - Result: 6.5
+2024-04-01 13:54:28.835752 - Function: summator - Arguments: (), {'a': 0, 'b': 0} - Result: 0
